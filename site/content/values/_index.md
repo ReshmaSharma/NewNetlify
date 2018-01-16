@@ -3,7 +3,7 @@ title: Payments
 image: /img/744cab843f0c8c78f6bddcfed938e9b2.jpg
 values:
   - heading: Shade-grown coffee
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: ''
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
