@@ -1,7 +1,7 @@
 ---
 title: 'solarisBank Content Hub '
 subtitle: Everything you need to build a great product with us
-image: /img/home-jumbotron.jpg
+image: /img/digital_banking_netlify.jpg
 blurb:
   heading: ''
   text: >-
